@@ -30,7 +30,7 @@ public class Server {
         }
     }
 
-
+// closing socket
     public void closeServerSocket (){
         try{
             if(serverSocket != null){
